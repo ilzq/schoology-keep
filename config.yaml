@@ -1,0 +1,17 @@
+---
+# More detailed informaiton found in the README.md
+
+# URL used to access schoology
+school_url: https://example.schoology.com
+
+# Number of Schoology post to pull with each run
+num_posts: 20
+
+# Schoology API key and secret, found at
+# https://[school_name].schoology/api
+s_key: change_me_123
+s_secret: change_me_123
+
+# Google account credentials
+g_email: my.name@gmail.com
+g_password: my_strong_password
